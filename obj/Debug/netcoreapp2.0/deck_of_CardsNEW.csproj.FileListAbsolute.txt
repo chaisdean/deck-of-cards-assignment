@@ -1,0 +1,10 @@
+/Users/capslock/Desktop/deck_of_CardsNEW/obj/Debug/netcoreapp2.0/deck_of_CardsNEW.csproj.CoreCompileInputs.cache
+/Users/capslock/Desktop/deck_of_CardsNEW/obj/Debug/netcoreapp2.0/deck_of_CardsNEW.AssemblyInfoInputs.cache
+/Users/capslock/Desktop/deck_of_CardsNEW/obj/Debug/netcoreapp2.0/deck_of_CardsNEW.AssemblyInfo.cs
+/Users/capslock/Desktop/deck_of_CardsNEW/bin/Debug/netcoreapp2.0/deck_of_CardsNEW.deps.json
+/Users/capslock/Desktop/deck_of_CardsNEW/bin/Debug/netcoreapp2.0/deck_of_CardsNEW.runtimeconfig.json
+/Users/capslock/Desktop/deck_of_CardsNEW/bin/Debug/netcoreapp2.0/deck_of_CardsNEW.runtimeconfig.dev.json
+/Users/capslock/Desktop/deck_of_CardsNEW/bin/Debug/netcoreapp2.0/deck_of_CardsNEW.dll
+/Users/capslock/Desktop/deck_of_CardsNEW/bin/Debug/netcoreapp2.0/deck_of_CardsNEW.pdb
+/Users/capslock/Desktop/deck_of_CardsNEW/obj/Debug/netcoreapp2.0/deck_of_CardsNEW.dll
+/Users/capslock/Desktop/deck_of_CardsNEW/obj/Debug/netcoreapp2.0/deck_of_CardsNEW.pdb
